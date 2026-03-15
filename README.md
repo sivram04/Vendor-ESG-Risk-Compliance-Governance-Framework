@@ -1,4 +1,4 @@
-endor ESG Risk & Compliance Governance Framework
+Vendor ESG Risk & Compliance Analysis
 
 SAP ECC–Aligned Procurement Risk Prioritization Model
 
